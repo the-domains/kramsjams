@@ -1,7 +1,7 @@
 name: KramsJams
 favicon: null
-layout_spectrum: 0.10304
-typography_spectrum: 0.88973
+layout_spectrum: 0.34357
+typography_spectrum: 0.70602
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.6875
-  lightness: 0.3125
-  saturation: 0.25
-  rhythmicContrast: 0.75
+    - '#eaeaec'
+    - '#b4aca2'
+    - '#1f39b0'
+    - '#1f1e24'
+    - '#7d84c0'
+  brandStrength: 0.5625
+  lightness: 0.375
+  saturation: 0.6875
+  rhythmicContrast: 0.25
 purpose: []
