@@ -1,5 +1,8 @@
+name: KramsJams
+favicon: null
+layout_spectrum: 0.39312
+typography_spectrum: 0.8136413
 title: "Kram's Jams Records"
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.375
-  brandStrength: 0.8845327
-  lightness: 0.5
   brandColors:
     - '#92D7E7'
     - '#FFFCF6'
     - '#FFF888'
     - '#000000'
     - '#31302F'
+  brandStrength: 0.8845327
+  lightness: 0.5
+  saturation: 0.375
   rhythmicContrast: 0.5
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: KramsJams
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.8136413
-layout_spectrum: 0.7051557
+purpose: []
