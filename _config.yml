@@ -1,4 +1,4 @@
-name: KramsJams
+name: "Kram's Jams Records"
 favicon: null
 layout_spectrum: 0.39312
 typography_spectrum: 0.8136413
@@ -36,6 +36,6 @@ color:
     - '#31302F'
   brandStrength: 0.8845327
   lightness: 0.5
-  saturation: 0.375
+  saturation: 0.3125
   rhythmicContrast: 0.5
 purpose: []
